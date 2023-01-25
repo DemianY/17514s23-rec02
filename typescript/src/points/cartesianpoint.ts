@@ -1,6 +1,6 @@
-function cartesianPoint (x: number, y: number): Point {
-    return {
-        x,
-        y
-    }
-}
+// function cartesianPoint (x: number, y: number): Point {
+//     return {
+//         x,
+//         y
+//     }
+// }
